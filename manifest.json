@@ -1,0 +1,12 @@
+{
+  "name": "context dic",
+  "version": "0.1",
+  "description": "select and dic",
+  "background_page": "background.html",
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
